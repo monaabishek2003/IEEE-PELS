@@ -1,4 +1,4 @@
-import Hero from "./hero";
+import Hero from "./Hero";
 import About from "./About";
 import Events from "./Events";
 import Feedback from "./Feedback";
