@@ -10,10 +10,10 @@ export const navLinks = [
 ];
 
 export const events = [
-    { imgURL:event_1, title:"Pixel Perfect Pitch"},
-    { imgURL:event_2, title:"Converter Simulation"},
-    { imgURL:event_3, title:"AI Workshop"},
-    { imgURL:event_4, title:"Ideate"}
+    { imgURL:event_1, title:"Pixel Perfect Pitch",content:"The Poster Designing Event was a vibrant convergence of creative minds, where participants unleashed their artistic flair, pushing the boundaries of design innovation in a lively and inspiring atmosphere."},
+    { imgURL:event_2, title:"Converter Simulation",content:"An electrifying event unfolded, showcasing a dynamic blend of creativity and innovation. Participants immersed themselves in a vibrant atmosphere, exchanging ideas and forging connections that made a difference."},
+    { imgURL:event_3, title:"AI Workshop",content:"In our recent Image Classification Deep Learning event, enthusiasts delved into the intricacies of neural networks and cutting-edge algorithms, gaining insights into the forefront of image recognition technology."},
+    { imgURL:event_4, title:"Ideate",content:"The Technical Paper Presentation event unfolded as a showcase of ground-breaking research and innovation, offering a platform for participants to articulate and discuss pioneering ideas across diverse technical fields."}
 ]
 
 export const feedbacks = [
